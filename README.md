@@ -51,4 +51,4 @@ E a o código utilizado foi o do usuário [KEVIN SMITH 94624 do Kaggle](https://
 
 ## **Fim**
 
-Obrigao por chegar até aqui, esse é apenas um estudo feito por mim para melhorar as minhas habilidades lidando com dados, e principalmente na preparação dos dados.
+Obrigado por chegar até aqui, esse é apenas um estudo feito por mim para melhorar as minhas habilidades lidando com dados, e principalmente na preparação dos dados.
