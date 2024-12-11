@@ -9,15 +9,13 @@ O seguinte arquivo trata sobre um estudo a respeito das funções de Pipeline e 
 
 
 
----
-
 ## **Data**
 
 Os dados foram retirados da competição do Kaggle [Store Sales - Time Series Forecasting](https://www.kaggle.com/competitionsstore-sales-time-series-forecasting/data?select=train.csv)
 
 E a o código utilizado foi o do usuário [KEVIN SMITH 94624 do Kaggle](https://www.kaggle.com/code/kevinsmith94624/time-series-forecasting) 
 
----
+
 
 ## **Duvidas**
 
@@ -47,7 +45,6 @@ E a o código utilizado foi o do usuário [KEVIN SMITH 94624 do Kaggle](https://
 
 * **model_pipeline.fit(X_train, y_train)**, usa o X_train e y_train para alimentar nosso pipeline, primeiro passando os valores pelo tratamento do preprocessor, e depois usando o resultado para alimentar o modelo XGBRegressor.
 
----
 
 ## **Fim**
 
